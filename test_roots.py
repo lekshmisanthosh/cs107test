@@ -1,5 +1,5 @@
 import pytest
-from . import roots
+import roots
 
 
 def test_quadroots_result():
